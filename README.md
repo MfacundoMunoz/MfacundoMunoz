@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MfacundoMunoz
 - 👀 I’m interested in ...Backend 
-- 🌱 I’m currently learning C# mvc mysql ...
+- 🌱 I’m currently learning JAVA mvc mysql ...
 
 nice to meet you! 
 
