@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Facundo</h1>
-<h3 align="center">desarollador .NET </h3>
+<h3 align="center">un apasionado Desarollador .NET </h3>
   🌱Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba y actualmente mientras continuo aprendiendo estoy trabajando brindando servicios de fletes mediante una web Propia que desarrolle. [FletexFacu](https://fletexfacu.netlify.app/)
   
 - 🌱 I’m currently learning **razor pages ,xamarin**
