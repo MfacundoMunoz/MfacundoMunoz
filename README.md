@@ -1,10 +1,12 @@
 <h1 align="center">Hola 👋, soy Facundo </h1>
-<h2 align="center">  🚀 de servicio tecnico y logistica a un apasionado Desarollador .NET   🚀 </h2>
+<h2 align="center">  🚀 De servicio tecnico y logistica a un apasionado Desarollador .NET   🚀 </h2>
   
   
-- 🌱 I’m currently learning **Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba y estudie analista de Sistema en la UNC**
+- 🌱 Actualmente  **Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba y estudie analista de Sistema en la UNC**
 
-- 📫 How to reach me **mfacundocba@gmail.com**
+- 📫 Contactame  **mfacundocba@gmail.com**
+- 📫 whatsApp  **3515131450**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
