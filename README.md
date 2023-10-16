@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Facundo</h1>
-<h3 align="center">un apasionado Desarollador .NET </h3>
-  🌱Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba 
+<h3 align="center"> de servicio tecnico y logistica a un apasionado Desarollador .NET  🚀  🚀  🚀 </h3>
+  🌱
   
-- 🌱 I’m currently learning **razor pages ,xamarin**
+- 🌱 I’m currently learning **Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba**
 
 - 📫 How to reach me **mfacundocba@gmail.com**
 
