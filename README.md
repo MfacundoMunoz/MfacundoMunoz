@@ -4,8 +4,8 @@
   
 - 🌱 Actualmente  **Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba y estudie analista de Sistema en la UNC**
 
-- 📫 Contactame  **mfacundocba@gmail.com**
-- 📫 whatsApp  **3515131450**
+- 📫 Contactame por mail o whatsapp  **mfacundocba@gmail.com o al 3515131450**
+
 
 
 <h3 align="left">Connect with me:</h3>
