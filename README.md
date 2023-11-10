@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Facundo  </h1>
-<h2 align="center">  🚀 Lic en Logistica y Data Analyst   🚀 </h2>
+<h2 align="center">  🚀 Lic en Logistica & Data Analyst   🚀 </h2>
   
   
 - 🌱 Actualmente  **Soy estudiante de la licenciatura em Logistica en el IUA Cordoba y estudie analista de Sistema en la UNC**
