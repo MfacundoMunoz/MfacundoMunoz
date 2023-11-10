@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, soy Facundo </h1>
-<h2 align="center">  🚀 De servicio tecnico y logistica a un apasionado Desarollador .NET   🚀 </h2>
+<h1 align="center">Hola 👋, soy Facundo  </h1>
+<h2 align="center">  🚀 Lic en Logistica y Data Analyst   🚀 </h2>
   
   
-- 🌱 Actualmente  **Soy estudiante de la Tecnicatura en desarrollo de Aplicaciones del IUA Cordoba y estudie analista de Sistema en la UNC**
+- 🌱 Actualmente  **Soy estudiante de la licenciatura em Logistica en el IUA Cordoba y estudie analista de Sistema en la UNC**
 
 - 📫 Contactame por mail o whatsapp  **mfacundocba@gmail.com o al 3515131450**
 
