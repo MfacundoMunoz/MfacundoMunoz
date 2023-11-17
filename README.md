@@ -1,8 +1,8 @@
-<h1 align="left">hola👋 estas ??</h1>
+<h1 align="left">hola👋 como andas ??</h1>
 
 ###
 
-<p align="left">Soy Facundo</p>
+<h2 align="left">Soy Facundo</h2>
 
 ###
 
@@ -30,4 +30,5 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
+###
 ###
