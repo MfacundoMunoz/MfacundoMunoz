@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🚀 Lic en Logistica & Data Analyst 🚀</h2>
+<h2 align="left">🚀 QA Analyst & Analista de Sistema / Lic en Logistica  🚀</h2>
 
 ###
 
