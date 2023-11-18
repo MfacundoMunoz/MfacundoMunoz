@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">QA Analyst & Analista de Sistemas / Lic en Logistica 🚀</h2>
+<h2 align="left">Data Analyst & Analista de Sistemas / Lic en Logistica 🚀</h2>
 
 ###
 
-<p align="left">🔍Soy Facundo inicialmente estudie Analista de Sistemas y actualmente estudio la Licenciatura en Logistica , Mi elección se basa en la convicción de que la logística es esencial para optimizar procesos empresariales y, al mismo tiempo, me brinda la oportunidad de aplicar esa eficiencia al mundo de la tecnología y la calidad del software.<br><br><br>📫 Contactame por mail o whatsapp mfacundocba@gmail.com o al 3515131450<br>📚 me gusta aprende idiomas trabajar en equipo  y hablo ingles fluido <br><br>🎯 conocimientos en logistica  y negocios</p>
+<p align="left"> soy una persona curiosa, trabajadora, autodidacta y que le encanta resolver problemas complejos. Inicialmente, desarrollé carrera como Analista de Sistemas, donde mi interés por los datos se convirtió en una verdadera pasión y Actualmente, me encuentro inmerso en la Licenciatura en Logística, fusionando mi amor por la tecnología con un enfoque emocionante en la eficiencia logística, administración y organización.</p>
 
 ###
 
